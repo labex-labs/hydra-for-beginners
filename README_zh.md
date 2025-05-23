@@ -26,28 +26,28 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                           | 难度   | 练习                                                                                                                    |
 |--------|--------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 安装和验证 Hydra            | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-install-and-verify-hydra-549917'>开始实验</a>              |
-|     02 | 🎯 验证 Hydra 安装             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-verify-hydra-installation-549983'>开始挑战</a>             |
-|     03 | 📖 学习 Hydra 基础命令         | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-learn-basic-hydra-commands-549918'>开始实验</a>            |
-|     04 | 🎯 破解新用户 SSH 登录         | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-new-user-ssh-login-550712'>开始挑战</a>              |
-|     05 | 📖 使用 Hydra 攻击 HTTP 服务   | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-http-services-with-hydra-549915'>开始实验</a>       |
-|     06 | 🎯 破解隐藏服务                | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-the-hidden-service-550719'>开始挑战</a>              |
-|     07 | 📖 使用 Hydra 攻击 FTP 服务    | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ftp-services-with-hydra-549914'>开始实验</a>        |
-|     08 | 🎯 使用自定义密码字典破解 FTP  | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>开始挑战</a>        |
-|     09 | 📖 使用 Hydra 攻击 Telnet 服务 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-telnet-services-with-hydra-549916'>开始实验</a>     |
-|     10 | 🎯 破解弱 Telnet 密码          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-a-weak-telnet-password-550745'>开始挑战</a>          |
-|     11 | 📖 调整 Hydra 攻击速度和线程   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>开始实验</a> |
-|     12 | 🎯 破解特工的弱 SSH 密码       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>开始挑战</a>       |
+|     01 | 📖 安装和验证 Hydra            | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-install-and-verify-hydra-549917'>开始实验</a>              |
+|     02 | 🎯 验证 Hydra 安装             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-verify-hydra-installation-549983'>开始挑战</a>             |
+|     03 | 📖 学习 Hydra 基础命令         | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-learn-basic-hydra-commands-549918'>开始实验</a>            |
+|     04 | 🎯 破解新用户 SSH 登录         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-new-user-ssh-login-550712'>开始挑战</a>              |
+|     05 | 📖 使用 Hydra 攻击 HTTP 服务   | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-http-services-with-hydra-549915'>开始实验</a>       |
+|     06 | 🎯 破解隐藏服务                | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-the-hidden-service-550719'>开始挑战</a>              |
+|     07 | 📖 使用 Hydra 攻击 FTP 服务    | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-ftp-services-with-hydra-549914'>开始实验</a>        |
+|     08 | 🎯 使用自定义密码字典破解 FTP  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>开始挑战</a>        |
+|     09 | 📖 使用 Hydra 攻击 Telnet 服务 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-attack-telnet-services-with-hydra-549916'>开始实验</a>     |
+|     10 | 🎯 破解弱 Telnet 密码          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-a-weak-telnet-password-550745'>开始挑战</a>          |
+|     11 | 📖 调整 Hydra 攻击速度和线程   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>开始实验</a> |
+|     12 | 🎯 破解特工的弱 SSH 密码       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>开始挑战</a>       |
 
 ## 更多
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 免费教程](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
