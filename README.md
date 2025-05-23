@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Hydra for Beginners](https://cover-creator.labex.io/hydra-for-beginners.png)](https://labex.io/en/courses/hydra-for-beginners)
+[![Hydra for Beginners](https://cover-creator.labex.io/hydra-for-beginners.png)](https://labex.io/courses/hydra-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/hydra-for-beginners)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/hydra-for-beginners)
 
 In this course, learn the fundamentals of using Hydra, a powerful password cracking tool. Explore installation, basic commands, and attack various services like SSH, HTTP, FTP, and Telnet.
 
@@ -30,20 +30,20 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                 |
-|---------|------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Install and Verify Hydra              | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-install-and-verify-hydra-549917'>Start Lab</a>              |
-|      02 | 🎯 Verify Hydra Installation             | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-verify-hydra-installation-549983'>Start Challenge</a>       |
-|      03 | 📖 Learn Basic Hydra Commands            | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-learn-basic-hydra-commands-549918'>Start Lab</a>            |
-|      04 | 🎯 Crack New User SSH Login              | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-crack-new-user-ssh-login-550712'>Start Challenge</a>        |
-|      05 | 📖 Attack HTTP Services with Hydra       | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-attack-http-services-with-hydra-549915'>Start Lab</a>       |
-|      06 | 🎯 Crack the Hidden Service              | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-crack-the-hidden-service-550719'>Start Challenge</a>        |
-|      07 | 📖 Attack FTP Services with Hydra        | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-attack-ftp-services-with-hydra-549914'>Start Lab</a>        |
-|      08 | 🎯 Crack FTP with Custom Wordlist        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>Start Challenge</a>  |
-|      09 | 📖 Attack Telnet Services with Hydra     | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-attack-telnet-services-with-hydra-549916'>Start Lab</a>     |
-|      10 | 🎯 Crack a Weak Telnet Password          | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-crack-a-weak-telnet-password-550745'>Start Challenge</a>    |
-|      11 | 📖 Adjust Hydra Attack Speed and Threads | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>Start Lab</a> |
-|      12 | 🎯 Crack Agent's Weak SSH Password       | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>Start Challenge</a> |
+|   Index | Name                                     | Difficulty   | Practice                                                                                                              |
+|---------|------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Install and Verify Hydra              | Intermediate | <a target='_blank' href='https://labex.io/tutorials/hydra-install-and-verify-hydra-549917'>Start Lab</a>              |
+|      02 | 🎯 Verify Hydra Installation             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-verify-hydra-installation-549983'>Start Challenge</a>       |
+|      03 | 📖 Learn Basic Hydra Commands            | Intermediate | <a target='_blank' href='https://labex.io/tutorials/hydra-learn-basic-hydra-commands-549918'>Start Lab</a>            |
+|      04 | 🎯 Crack New User SSH Login              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-new-user-ssh-login-550712'>Start Challenge</a>        |
+|      05 | 📖 Attack HTTP Services with Hydra       | Intermediate | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-http-services-with-hydra-549915'>Start Lab</a>       |
+|      06 | 🎯 Crack the Hidden Service              | Intermediate | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-the-hidden-service-550719'>Start Challenge</a>        |
+|      07 | 📖 Attack FTP Services with Hydra        | Intermediate | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-ftp-services-with-hydra-549914'>Start Lab</a>        |
+|      08 | 🎯 Crack FTP with Custom Wordlist        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>Start Challenge</a>  |
+|      09 | 📖 Attack Telnet Services with Hydra     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-attack-telnet-services-with-hydra-549916'>Start Lab</a>     |
+|      10 | 🎯 Crack a Weak Telnet Password          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-a-weak-telnet-password-550745'>Start Challenge</a>    |
+|      11 | 📖 Adjust Hydra Attack Speed and Threads | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>Start Lab</a> |
+|      12 | 🎯 Crack Agent's Weak SSH Password       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>Start Challenge</a> |
 
 ## More
 
