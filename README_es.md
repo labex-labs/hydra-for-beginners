@@ -14,6 +14,23 @@ En este curso, aprende los fundamentos del uso de Hydra, una poderosa herramient
 ![Hydra](https://img.shields.io/badge/Hydra-whitesmoke?style=for-the-badge&logo=hydra)
 
 
+## Ejercicios
+
+|   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                           |
+|----------|-------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Instalar y Verificar Hydra                            | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-install-and-verify-hydra-549917'>Iniciar Laboratorio</a>              |
+|       02 | 🎯 🟢 Verificar la instalación de Hydra                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-verify-hydra-installation-549983'>Iniciar Desafío</a>                 |
+|       03 | 📖 🟢 Aprenda los Comandos Básicos de Hydra                 | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-learn-basic-hydra-commands-549918'>Iniciar Laboratorio</a>            |
+|       04 | 🎯 🟢 Descifrar el inicio de sesión SSH del nuevo usuari... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-new-user-ssh-login-550712'>Iniciar Desafío</a>                  |
+|       05 | 📖 🟢 Atacar Servicios HTTP con Hydra                       | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-http-services-with-hydra-549915'>Iniciar Laboratorio</a>       |
+|       06 | 🎯 🟢 Descifra el Servicio Oculto                           | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-the-hidden-service-550719'>Iniciar Desafío</a>                  |
+|       07 | 📖 🟢 Atacar Servicios FTP con Hydra                        | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-ftp-services-with-hydra-549914'>Iniciar Laboratorio</a>        |
+|       08 | 🎯 🟢 Descifrar FTP con una Lista de Palabras Personaliz... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>Iniciar Desafío</a>            |
+|       09 | 📖 🟢 Atacar servicios Telnet con Hydra                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-telnet-services-with-hydra-549916'>Iniciar Laboratorio</a>     |
+|       10 | 🎯 🟢 Descifrar una Contraseña Telnet Débil                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-a-weak-telnet-password-550745'>Iniciar Desafío</a>              |
+|       11 | 📖 🟢 Ajustar la Velocidad de Ataque y los Hilos de Hydr... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>Iniciar Laboratorio</a> |
+|       12 | 🎯 🟢 Descifrar la Contraseña SSH Débil del Agente          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>Iniciar Desafío</a>           |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -24,26 +41,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                           |
-|----------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Instalar y Verificar Hydra                            | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-install-and-verify-hydra-549917'>Iniciar Laboratorio</a>              |
-|       02 | 🎯 Verificar la instalación de Hydra                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-verify-hydra-installation-549983'>Iniciar Desafío</a>                 |
-|       03 | 📖 Aprenda los Comandos Básicos de Hydra                 | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-learn-basic-hydra-commands-549918'>Iniciar Laboratorio</a>            |
-|       04 | 🎯 Descifrar el inicio de sesión SSH del nuevo usuari... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-new-user-ssh-login-550712'>Iniciar Desafío</a>                  |
-|       05 | 📖 Atacar Servicios HTTP con Hydra                       | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-http-services-with-hydra-549915'>Iniciar Laboratorio</a>       |
-|       06 | 🎯 Descifra el Servicio Oculto                           | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-the-hidden-service-550719'>Iniciar Desafío</a>                  |
-|       07 | 📖 Atacar Servicios FTP con Hydra                        | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-ftp-services-with-hydra-549914'>Iniciar Laboratorio</a>        |
-|       08 | 🎯 Descifrar FTP con una Lista de Palabras Personaliz... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>Iniciar Desafío</a>            |
-|       09 | 📖 Atacar servicios Telnet con Hydra                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-attack-telnet-services-with-hydra-549916'>Iniciar Laboratorio</a>     |
-|       10 | 🎯 Descifrar una Contraseña Telnet Débil                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-a-weak-telnet-password-550745'>Iniciar Desafío</a>              |
-|       11 | 📖 Ajustar la Velocidad de Ataque y los Hilos de Hydr... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>Iniciar Laboratorio</a> |
-|       12 | 🎯 Descifrar la Contraseña SSH Débil del Agente          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>Iniciar Desafío</a>           |
 
 ## Más
 
