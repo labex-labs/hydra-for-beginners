@@ -16,20 +16,20 @@
 
 ## 연습
 
-|   인덱스 | 이름                                       | 난이도   | 연습                                                                                                                     |
-|----------|--------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Hydra 설치 및 검증                   | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-install-and-verify-hydra-549917'>실습 시작</a>              |
-|       02 | 🎯 🟢 Hydra 설치 확인                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-verify-hydra-installation-549983'>도전 시작</a>             |
-|       03 | 📖 🟢 Hydra 기본 명령어 배우기             | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-learn-basic-hydra-commands-549918'>실습 시작</a>            |
-|       04 | 🎯 🟢 새 사용자 SSH 로그인 크래킹          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-new-user-ssh-login-550712'>도전 시작</a>              |
-|       05 | 📖 🟢 Hydra 로 HTTP 서비스 공격            | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-http-services-with-hydra-549915'>실습 시작</a>       |
-|       06 | 🎯 🟢 숨겨진 서비스 크래킹                 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-the-hidden-service-550719'>도전 시작</a>              |
-|       07 | 📖 🟢 Hydra 를 이용한 FTP 서비스 공격      | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ftp-services-with-hydra-549914'>실습 시작</a>        |
-|       08 | 🎯 🟢 사용자 정의 단어 목록으로 FTP 크래킹 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>도전 시작</a>        |
-|       09 | 📖 🟢 Hydra 를 이용한 Telnet 서비스 공격   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-telnet-services-with-hydra-549916'>실습 시작</a>     |
-|       10 | 🎯 🟢 취약한 Telnet 비밀번호 크래킹        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-a-weak-telnet-password-550745'>도전 시작</a>          |
-|       11 | 📖 🟢 Hydra 공격 속도 및 스레드 조정       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>실습 시작</a> |
-|       12 | 🎯 🟢 요원의 취약한 SSH 비밀번호 크래킹    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>도전 시작</a>       |
+|   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                     |
+|----------|------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Hydra 설치 및 검증                 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-install-and-verify-hydra-549917'>실습 시작</a>              |
+|       02 | 🎯 🆓 Hydra 설치 확인                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-verify-hydra-installation-549983'>도전 시작</a>             |
+|       03 | 📖 🆓 Hydra 기본 명령어 배우기           | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-learn-basic-hydra-commands-549918'>실습 시작</a>            |
+|       04 | 🎯 🆓 새 사용자 SSH 로그인 크래킹        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-new-user-ssh-login-550712'>도전 시작</a>              |
+|       05 | 📖 🆓 Hydra 로 HTTP 서비스 공격          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-http-services-with-hydra-549915'>실습 시작</a>       |
+|       06 | 🎯  숨겨진 서비스 크래킹                 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-the-hidden-service-550719'>도전 시작</a>              |
+|       07 | 📖  Hydra 를 이용한 FTP 서비스 공격      | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-ftp-services-with-hydra-549914'>실습 시작</a>        |
+|       08 | 🎯  사용자 정의 단어 목록으로 FTP 크래킹 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-ftp-with-custom-wordlist-550733'>도전 시작</a>        |
+|       09 | 📖  Hydra 를 이용한 Telnet 서비스 공격   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-attack-telnet-services-with-hydra-549916'>실습 시작</a>     |
+|       10 | 🎯  취약한 Telnet 비밀번호 크래킹        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-a-weak-telnet-password-550745'>도전 시작</a>          |
+|       11 | 📖  Hydra 공격 속도 및 스레드 조정       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-adjust-hydra-attack-speed-and-threads-549913'>실습 시작</a> |
+|       12 | 🎯  요원의 취약한 SSH 비밀번호 크래킹    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-agent-s-weak-ssh-password-550753'>도전 시작</a>       |
 
 ## 환경
 
